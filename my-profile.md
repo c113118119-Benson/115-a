@@ -5,6 +5,6 @@
 * Python
 * 統計學
 
-*遭求別人做的事 自己要先做得到*
+*要求別人做的事 自己要先做得到*
 
 [threads](https://www.threads.com)
